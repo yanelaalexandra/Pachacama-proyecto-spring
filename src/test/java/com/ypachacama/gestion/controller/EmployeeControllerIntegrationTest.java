@@ -1,4 +1,4 @@
-package com.tecsup.gestion.controller;
+package com.ypachacama.gestion.controller;
 
 import static org.hamcrest.Matchers.*;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;

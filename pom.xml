@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.tecsup</groupId>
 	<artifactId>gestion</artifactId>
-	<name>lab10SpringMVCTesting</name>
+	<name>ProyectoYanela</name>
 	<packaging>war</packaging>
 	<version>1.0.0-BUILD-SNAPSHOT</version>
 	<properties>
